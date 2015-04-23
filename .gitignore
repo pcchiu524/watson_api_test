@@ -1,0 +1,5 @@
+api_key.txt
+node_modules
+.*.swp
+uploads/*
+logs/*

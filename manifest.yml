@@ -1,0 +1,6 @@
+---
+applications:
+- name: watson-stone-test
+  command: node app.js
+  path: .
+  memory: 512m
